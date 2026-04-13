@@ -4,4 +4,4 @@ PhD student @ Fudan University, working on **Multimodal LLMs** and vision-langua
 
 Previously interned at **Bilibili AI Platform** — OCR, text generation, and content moderation.
 
-- 📬 wwkml994@gmail.com
+- 📬 kiren.wwh@gmail.com
